@@ -21,7 +21,7 @@
       <el-submenu index="1">
         <template slot="title">
           <i class="el-icon-message"></i>
-          <span>首页</span>
+          <span>首页66666</span>
        
         </template>
         <el-menu-item-group>
