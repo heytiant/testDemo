@@ -2,12 +2,12 @@
 
 <div class="box">
 
-    <p>品牌名称-管理登录</p>
+    <p>品牌名称-张三珠宝</p>
 
     <form >    
-    <input type="text" placeholder="用户名"  name="username"  class="username" v-model="infoData.username"/>
-    <input type="text" placeholder="密码" name="password"   class="password"  v-model="infoData.password"/>
-    <input type="button" value="登录"  class="submit"  @click="submitBtn"/>
+    <input type="text" placeholder="提示用户名"  name="username"  class="username" v-model="infoData.username"/>
+    <input type="text" placeholder="提示密码" name="password"   class="password"  v-model="infoData.password"/>
+    <input type="button" value="提示登录"  class="submit"  @click="submitBtn"/>
     </form>
 
 
